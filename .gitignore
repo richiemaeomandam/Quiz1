@@ -1,0 +1,7 @@
+/AppData/ 
+/OneDrive/ 
+/ntuser.* 
+/Desktop/ 
+/Documents/ 
+/Downloads/ 
+*.log 
